@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$/DepositService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TransferService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/WithdrawalService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mockservice" vcs="Git" />
   </component>
 </project>
